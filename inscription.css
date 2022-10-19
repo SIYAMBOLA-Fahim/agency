@@ -1,0 +1,86 @@
+#wrapper1{
+    border: 1px solid #000;
+    background-color: #318CE7;
+    margin-top: 70px;
+    width: 27%;
+    border: 0px;
+    box-shadow: 5px 5px 20px 1px 10px rgb(85, 85, 85);
+    padding-left: 10px;
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    height: 430px;
+}
+
+td{
+    letter-spacing: 1px;
+}
+
+h1{
+    font-family: andalus;
+    letter-spacing: 3px;
+    text-align: center;
+    color: white;
+}
+
+hr{
+    border: 5px solid white;
+    border-radius: 10px;
+    width: 40%;
+}
+
+#submit{
+    margin: 20px 35px;
+    color: #318CE7;
+    background-color: white;
+    width: 80%;
+    font-size: 17px;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+
+#submit:hover{
+    color: white;
+    background-color: #318CE7;
+}
+
+input{
+    font-size: 16px;
+    border: none;
+    outline: non;
+    background: none;
+    border-bottom: 1px solid white;
+    color: white;
+    width: 100%;
+    position: relative;
+    right: 10px;
+}
+
+label{
+    padding-top: 30px;
+}
+
+select{
+    font-size: .9rem;
+    padding: 2px 5px;
+    position: relative;
+    left: 90px;
+    border-radius: 20px;
+    bottom: 25px;
+}
+
+option{
+    background-color: #318CE7;
+}
+
+.box h2{
+    color: white;
+    font-size: andalus;
+    position: relative;
+    top: 50px;
+    font-weight: 500;
+}
+
+.box{
+    width: 300px;
+    padding: 10px;
+}
